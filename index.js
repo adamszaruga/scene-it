@@ -1,5 +1,5 @@
 $(function(){
-
+	console.log('sup');
 	function renderMovies(movies) {
 		$('.card-columns').empty();
 
